@@ -9,7 +9,7 @@
 </h1>
  Learning step by step process of devleoping blog in Gatsby.
 
- [check live website at Hamro Nepal ma](www.hamronepalma.com)
+ Check live website at <a href="www.hamronepalma.com"> Hamro Nepal Ma </a>
 
 ## Checklist
 + [X] Build small project
