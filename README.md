@@ -9,6 +9,8 @@
 </h1>
  Learning step by step process of devleoping blog in Gatsby.
 
+ [check live website at Hamro Nepal ma](www.hamronepalma.com)
+
 ## Checklist
 + [X] Build small project
 + [X] Deployed to custom domain
